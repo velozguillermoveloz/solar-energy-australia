@@ -46,8 +46,11 @@ Monthly distribution: Tindo (green) is the most stable and productive. Kyocera (
 Conclusions
 
 Technology improves faster than tracking: A modern fixed panel outperforms an older tracker by 13.7%.
+
 Trackers offer an advantage: 22% better than fixed panels of the same era.
+
 Technological evolution: 38.7% improvement in 8 years (Tindo vs. BP).
+
 Recommendation: Invest in modern panels first. Add trackers only if the panels are current and the budget allows.
 
 
