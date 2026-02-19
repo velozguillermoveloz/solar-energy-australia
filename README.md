@@ -40,7 +40,7 @@ Tracker Advantage (Kyocera vs. BP): The tracker generates between +4 and +9 kWh/
 
 Modern vs. Tracker (Tindo vs. Kyocera): The modern panel outperforms the older tracker in most months. Annual advantage: +13.7%.
 
-Monthly distribution: Tindo (green) is the most stable and productive. Kyocera (orange) shows high variability (greater risk). BP (blue) is stable but obsolete.
+Monthly distribution: Tindo (blue) is the most stable and productive. Kyocera (yellow) shows high variability (greater risk). BP (red) is stable but obsolete.
 
 
 Conclusions
@@ -51,7 +51,11 @@ Trackers offer an advantage: 22% better than fixed panels of the same era.
 
 Technological evolution: 38.7% improvement in 8 years (Tindo vs. BP).
 
-Recommendation: Invest in modern panels first. Add trackers only if the panels are current and the budget allows.
+Recommendation: For projects where stability and predictability are critical (e.g., PPAs with penalties), prioritize modern panels (Tindo) over more variable technologies.
+
+Invest first in modern, high-efficiency panels. If the budget allows, add modern trackers to maximize the return. Avoid any combination with technology older than 2016.
+
+This analysis, based on real-world operating data in desert conditions, provides clear guidance for making investment decisions in solar assets, prioritizing energy return per installed kW and long-term operational stability.
 
 
 
