@@ -25,14 +25,17 @@ Visualization: Interactive dashboards created in Tableau Public.
 Dashboards and Key Findings
 
 Dashboard 1: Overview
+
 Annual Totals: Tindo (2016) leads with 2,076.9 kWh/kWp, followed by Kyocera (1,828.5) and BP (1,499.9).
 
 Monthly Generation: Clear seasonal pattern with peaks in summer (December-February).
 
 Dashboard 2: Comparative Advantages
+
 Monthly Dominance Heatmap and Line Graphic: Tindo dominates all 12 months of the year (green), Kyocera never wins a month.
 
 Dashboard 3: Stability and Consistency
+
 Tracker Advantage (Kyocera vs. BP): The tracker generates between +4 and +9 kWh/kWp more each month. The advantage is greater in summer.
 
 Modern vs. Tracker (Tindo vs. Kyocera): The modern panel outperforms the older tracker in most months. Annual advantage: +13.7%.
@@ -41,6 +44,7 @@ Monthly distribution: Tindo (green) is the most stable and productive. Kyocera (
 
 
 Conclusions
+
 Technology improves faster than tracking: A modern fixed panel outperforms an older tracker by 13.7%.
 Trackers offer an advantage: 22% better than fixed panels of the same era.
 Technological evolution: 38.7% improvement in 8 years (Tindo vs. BP).
