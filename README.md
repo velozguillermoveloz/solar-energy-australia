@@ -34,7 +34,7 @@ Dashboard 2: Comparative Advantages
 
 Monthly Dominance Heatmap and Line Graphic: Tindo dominates all 12 months of the year (green), Kyocera never wins a month.
 
-Dashboard 3: Stability and Consistency
+Dashboard 3: Performance Stability and Consistency Analysis
 
 Tracker Advantage (Kyocera vs. BP): The tracker generates between +4 and +9 kWh/kWp more each month. The advantage is greater in summer.
 
